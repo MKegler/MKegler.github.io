@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mahmoud Keshavarzi | Mikolaj Kegler</title>
+    <link>https://mkegler.github.io/author/mahmoud-keshavarzi/</link>
+      <atom:link href="https://mkegler.github.io/author/mahmoud-keshavarzi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mahmoud Keshavarzi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mkegler.github.io/images/icon_hu8bf89952a81d34f8e8dad11f6b73c75e_3252_512x512_fill_lanczos_center_3.png</url>
+      <title>Mahmoud Keshavarzi</title>
+      <link>https://mkegler.github.io/author/mahmoud-keshavarzi/</link>
+    </image>
+    
+    <item>
+      <title>Transcranial alternating current stimulation in the theta band but not in the delta band modulates the comprehension of naturalistic speech in noise</title>
+      <link>https://mkegler.github.io/publication/keshavarzi-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/keshavarzi-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

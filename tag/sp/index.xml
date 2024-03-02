@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SP | Mikolaj Kegler</title>
+    <link>https://mkegler.github.io/tag/sp/</link>
+      <atom:link href="https://mkegler.github.io/tag/sp/index.xml" rel="self" type="application/rss+xml" />
+    <description>SP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mkegler.github.io/images/icon_hu8bf89952a81d34f8e8dad11f6b73c75e_3252_512x512_fill_lanczos_center_3.png</url>
+      <title>SP</title>
+      <link>https://mkegler.github.io/tag/sp/</link>
+    </image>
+    
+    <item>
+      <title>Hybrid BYOL-S</title>
+      <link>https://mkegler.github.io/project/hybrid-byol-s/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/project/hybrid-byol-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SERAB</title>
+      <link>https://mkegler.github.io/project/serab/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/project/serab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pyNSL</title>
+      <link>https://mkegler.github.io/project/pynsl/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/project/pynsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech-VGG</title>
+      <link>https://mkegler.github.io/project/speechvgg/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/project/speechvgg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Speech Inpainting</title>
+      <link>https://mkegler.github.io/project/inpainting/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/project/inpainting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamental waveform extraction</title>
+      <link>https://mkegler.github.io/project/f0_waveform/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/project/f0_waveform/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

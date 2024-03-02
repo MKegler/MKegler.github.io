@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lara Orlandic | Mikolaj Kegler</title>
+    <link>https://mkegler.github.io/author/lara-orlandic/</link>
+      <atom:link href="https://mkegler.github.io/author/lara-orlandic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lara Orlandic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mkegler.github.io/images/icon_hu8bf89952a81d34f8e8dad11f6b73c75e_3252_512x512_fill_lanczos_center_3.png</url>
+      <title>Lara Orlandic</title>
+      <link>https://mkegler.github.io/author/lara-orlandic/</link>
+    </image>
+    
+    <item>
+      <title>Hybrid Handcrafted and Learnable Audio Representation for Analysis of Speech Under Cognitive and Physical Load</title>
+      <link>https://mkegler.github.io/publication/elbanna-2022/</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/elbanna-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

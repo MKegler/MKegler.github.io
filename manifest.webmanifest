@@ -1,0 +1,18 @@
+{
+  "name": "Mikolaj Kegler",
+  "short_name": "Mikolaj Kegler",
+  "lang": "en-us",
+  "theme_color": "#0067CD",
+  "background_color": "#0067CD",
+  "icons": [{
+    "src": "/images/icon_hu8bf89952a81d34f8e8dad11f6b73c75e_3252_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu8bf89952a81d34f8e8dad11f6b73c75e_3252_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

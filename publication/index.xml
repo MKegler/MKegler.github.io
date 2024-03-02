@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Mikolaj Kegler</title>
+    <link>https://mkegler.github.io/publication/</link>
+      <atom:link href="https://mkegler.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mkegler.github.io/images/icon_hu8bf89952a81d34f8e8dad11f6b73c75e_3252_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://mkegler.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Two-Step Knowledge Distillation for Tiny Speech Enhancement&#34;</title>
+      <link>https://mkegler.github.io/publication/daod-nathoo-2023/</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/daod-nathoo-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Supervised Learning for Speech Enhancement through Synthesis</title>
+      <link>https://mkegler.github.io/publication/irvin-2022/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/irvin-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BYOL-S: Learning Self-supervised Speech Representations by Bootstrapping</title>
+      <link>https://mkegler.github.io/publication/elbanna-2022b/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/elbanna-2022b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Handcrafted and Learnable Audio Representation for Analysis of Speech Under Cognitive and Physical Load</title>
+      <link>https://mkegler.github.io/publication/elbanna-2022/</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/elbanna-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental Flow Estimation Through Wearable EEG</title>
+      <link>https://mkegler.github.io/publication/cherep-2022/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/cherep-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The neural response at the fundamental frequency of speech is modulated by word-level acoustic and linguistic information</title>
+      <link>https://mkegler.github.io/publication/kegler-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/kegler-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SERAB: A multi-lingual benchmark for speech emotion recognition</title>
+      <link>https://mkegler.github.io/publication/scheidwasser-clow-2022/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/scheidwasser-clow-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational modelling of neural mechanisms underlying natural speech perception</title>
+      <link>https://mkegler.github.io/publication/kegler-thesis/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/kegler-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of visual input on syllable parsing in a computational model of a neural microcircuit for speech processing</title>
+      <link>https://mkegler.github.io/publication/kulkarni-2021/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/kulkarni-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word-Level Embeddings for Cross-Task Transfer Learning in Speech Processing</title>
+      <link>https://mkegler.github.io/publication/beckmann-2021/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/beckmann-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the effects of transcranial alternating current stimulation on the neural encoding of speech in noise</title>
+      <link>https://mkegler.github.io/publication/kegler-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/kegler-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Speech Inpainting of Time-Frequency Masks</title>
+      <link>https://mkegler.github.io/publication/kegler-2019/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/kegler-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hearing aids do not alter cortical entrainment to speech at audible levels in mild-to-moderately hearing-impaired subjects</title>
+      <link>https://mkegler.github.io/publication/vanheusden-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/vanheusden-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcranial alternating current stimulation in the theta band but not in the delta band modulates the comprehension of naturalistic speech in noise</title>
+      <link>https://mkegler.github.io/publication/keshavarzi-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/keshavarzi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding of selective attention to continuous speech from the human auditory brainstem response</title>
+      <link>https://mkegler.github.io/publication/etard-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/etard-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

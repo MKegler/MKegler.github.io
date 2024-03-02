@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre Beckmann* | Mikolaj Kegler</title>
+    <link>https://mkegler.github.io/author/pierre-beckmann/</link>
+      <atom:link href="https://mkegler.github.io/author/pierre-beckmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pierre Beckmann*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mkegler.github.io/images/icon_hu8bf89952a81d34f8e8dad11f6b73c75e_3252_512x512_fill_lanczos_center_3.png</url>
+      <title>Pierre Beckmann*</title>
+      <link>https://mkegler.github.io/author/pierre-beckmann/</link>
+    </image>
+    
+    <item>
+      <title>BYOL-S: Learning Self-supervised Speech Representations by Bootstrapping</title>
+      <link>https://mkegler.github.io/publication/elbanna-2022b/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/elbanna-2022b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Handcrafted and Learnable Audio Representation for Analysis of Speech Under Cognitive and Physical Load</title>
+      <link>https://mkegler.github.io/publication/elbanna-2022/</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/elbanna-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SERAB: A multi-lingual benchmark for speech emotion recognition</title>
+      <link>https://mkegler.github.io/publication/scheidwasser-clow-2022/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/scheidwasser-clow-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word-Level Embeddings for Cross-Task Transfer Learning in Speech Processing</title>
+      <link>https://mkegler.github.io/publication/beckmann-2021/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/beckmann-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Speech Inpainting of Time-Frequency Masks</title>
+      <link>https://mkegler.github.io/publication/kegler-2019/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://mkegler.github.io/publication/kegler-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
